@@ -17,7 +17,7 @@
 </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-
+<br>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -52,9 +52,9 @@
 </a>
 &nbsp;&nbsp;
 </p>
+<br>
+<p><img width=470 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyanakmal111&theme=neon&show_icons=true&locale=en&layout=compact" alt="alyanakmal111" /></p>
 
-<p><img height=500 width=500 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alyanakmal111&theme=neon&show_icons=true&locale=en&layout=compact" alt="alyanakmal111" /></p>
+<p><img width=470 align="center" src="https://github-readme-stats.vercel.app/api?username=alyanakmal111&theme=neon&show_icons=true&locale=en" alt="alyanakmal111" /></p>
 
-<p><img height=500 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=alyanakmal111&theme=neon&show_icons=true&locale=en" alt="alyanakmal111" /></p>
-
-<p><img height=500 width=500 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyanakmal111&theme=neon" alt="alyanakmal111" /></p>
+<p><img width=470 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyanakmal111&theme=neon" alt="alyanakmal111" /></p>
