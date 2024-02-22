@@ -1,4 +1,4 @@
-
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Aalyan Akmal</h1>
 <h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 
